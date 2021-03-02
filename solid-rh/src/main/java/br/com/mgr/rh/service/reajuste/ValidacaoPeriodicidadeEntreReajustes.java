@@ -1,11 +1,10 @@
-package br.com.mgr.rh.validacaoReajuste;
+package br.com.mgr.rh.service.reajuste;
 
 import br.com.mgr.rh.ValidacaoException;
 import br.com.mgr.rh.model.Funcionario;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
-import java.time.chrono.ChronoLocalDate;
 import java.time.temporal.ChronoUnit;
 
 public class ValidacaoPeriodicidadeEntreReajustes implements ValidacaoReajuste {

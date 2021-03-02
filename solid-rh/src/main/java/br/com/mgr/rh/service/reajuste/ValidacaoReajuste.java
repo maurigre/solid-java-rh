@@ -1,4 +1,4 @@
-package br.com.mgr.rh.validacaoReajuste;
+package br.com.mgr.rh.service.reajuste;
 
 import br.com.mgr.rh.model.Funcionario;
 
